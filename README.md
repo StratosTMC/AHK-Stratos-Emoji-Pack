@@ -6,3 +6,17 @@ The resource pack was made by Caches. Different resolutions are available
 [x16](https://cdn.discordapp.com/attachments/715454368513785907/817057698851717120/Stratos_emoji_pack16x_1.mcpack)
 [x24](https://cdn.discordapp.com/attachments/715454368513785907/817057721970982972/Stratos_emoji_pack24x_1.mcpack)
 [x32](https://cdn.discordapp.com/attachments/715454368513785907/817057746876629013/Stratos_emoji_pack32x.mcpack)
+
+### Available emotes
+Simply type the emote name indicated here and add MC (caps sensitive) at the end.
+
+* matt
+* kewk
+* hi
+* bruhwhat
+* pain
+* adios
+* uhh
+* pepegun
+* sus
+* lmfao
