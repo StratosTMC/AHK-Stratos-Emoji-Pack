@@ -10,7 +10,9 @@ The resource pack was made by Caches. Different resolutions are available
 ### Available emotes
 Simply type the emote name indicated here and add MC (caps sensitive) at the end.
 
-* matt
+![](https://cdn.discordapp.com/attachments/824694871750082610/859510104437293106/Screenshot_119.png)
+
+* matt 
 * kewk
 * hi
 * bruhwhat
